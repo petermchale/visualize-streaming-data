@@ -4,6 +4,12 @@ Stream geo-tagged tweets via Kafka to a web-app visualization based upon HTML5 S
 
 Based upon: https://medium.com/an-idea/real-time-twitter-map-with-javascript-python-and-kafka-a95d6bf34b92
 
+## Demo 
+
+https://drive.google.com/file/d/1EOMCcJZLJnBtaQ_YX8GydikbotFQWBYK/view?usp=sharing
+
+## Set-up 
+
 ```
 bin/zookeeper-server-start.sh config/zookeeper.properties
 bin/kafka-server-start.sh config/server.properties
