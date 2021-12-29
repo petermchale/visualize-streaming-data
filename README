@@ -1,6 +1,7 @@
 ## Visualize the geographic location of tweets in real time using kafka
 
 Stream geo-tagged tweets via Kafka to a web-app visualization using Flask streaming and HTML5 Server-Sent Events.
+
 Based upon: https://medium.com/an-idea/real-time-twitter-map-with-javascript-python-and-kafka-a95d6bf34b92
 
 ```
